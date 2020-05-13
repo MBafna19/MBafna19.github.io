@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.584f321a.chunk.css",
-    "main.js": "/static/js/main.a8b7dcef.chunk.js",
-    "main.js.map": "/static/js/main.a8b7dcef.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a32800a7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a32800a7.js.map",
-    "static/js/2.45bafb5c.chunk.js": "/static/js/2.45bafb5c.chunk.js",
-    "static/js/2.45bafb5c.chunk.js.map": "/static/js/2.45bafb5c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.03e28df9d6dee22b3396099ade6c9732.js": "/precache-manifest.03e28df9d6dee22b3396099ade6c9732.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.584f321a.chunk.css.map": "/static/css/main.584f321a.chunk.css.map",
-    "static/js/2.45bafb5c.chunk.js.LICENSE.txt": "/static/js/2.45bafb5c.chunk.js.LICENSE.txt"
+    "main.css": "/mihir/static/css/main.584f321a.chunk.css",
+    "main.js": "/mihir/static/js/main.2bfa827b.chunk.js",
+    "main.js.map": "/mihir/static/js/main.2bfa827b.chunk.js.map",
+    "runtime-main.js": "/mihir/static/js/runtime-main.967f246f.js",
+    "runtime-main.js.map": "/mihir/static/js/runtime-main.967f246f.js.map",
+    "static/js/2.45bafb5c.chunk.js": "/mihir/static/js/2.45bafb5c.chunk.js",
+    "static/js/2.45bafb5c.chunk.js.map": "/mihir/static/js/2.45bafb5c.chunk.js.map",
+    "index.html": "/mihir/index.html",
+    "precache-manifest.572150b8edfa4958e9a70daa2b20adad.js": "/mihir/precache-manifest.572150b8edfa4958e9a70daa2b20adad.js",
+    "service-worker.js": "/mihir/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/mihir/static/css/main.584f321a.chunk.css.map",
+    "static/js/2.45bafb5c.chunk.js.LICENSE.txt": "/mihir/static/js/2.45bafb5c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a32800a7.js",
+    "static/js/runtime-main.967f246f.js",
     "static/js/2.45bafb5c.chunk.js",
     "static/css/main.584f321a.chunk.css",
-    "static/js/main.a8b7dcef.chunk.js"
+    "static/js/main.2bfa827b.chunk.js"
   ]
 }
