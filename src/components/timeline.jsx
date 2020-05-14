@@ -32,8 +32,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduation at UIUC <span>2018-present</span></h2>
-                        <p>I am pursuing my undergraduation with a double major in Computer Science and Entrepreneurship at UIUC. With my Computer Science major, I have taken classes in Data Science, Testing, Data Structures, and System Programming. In my entrpreneuship classes, I have taken human-centered design classes as well as business classes while pursuing entrepreneurship opportunities.</p>
+                        <h2>BS at UIUC <span>2018-present</span></h2>
+                        <p>I am pursuing my BS with a double major in Computer Science and Entrepreneurship at UIUC. With my Computer Science major, I have taken classes in Data Science, Testing, Data Structures, and System Programming. In my entrpreneuship classes, I have taken human-centered design classes as well as business classes while pursuing entrepreneurship opportunities.</p>
                       </div>
                     </div>
                   </article>
