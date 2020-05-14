@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "20d315cc78eab752feb4fd658392884a",
+    "revision": "e10b01ab3dde0f69e36d9ae4560782e1",
     "url": "/mihirbafna.com/index.html"
   },
   {
-    "revision": "f573693af4725f16f4b2",
+    "revision": "fb5c670929da1e4d2122",
     "url": "/mihirbafna.com/static/css/main.584f321a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mihirbafna.com/static/js/2.95456594.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f573693af4725f16f4b2",
-    "url": "/mihirbafna.com/static/js/main.4b0cc5ee.chunk.js"
+    "revision": "fb5c670929da1e4d2122",
+    "url": "/mihirbafna.com/static/js/main.fd2a47f5.chunk.js"
   },
   {
     "revision": "a8c4d637f7e5745e54d1",
