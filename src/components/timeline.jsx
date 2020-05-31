@@ -21,7 +21,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Research at UIUC <span>2020-present</span></h2>
+                        <h2>Research at UIUC <span>May 2020-present</span></h2>
                         <p>I am planning to work on research tying Computer Science along with Education over the summer with a professor at UIUC. I will be working on building a web platform to deliver online lectures effectively.</p>
                       </div>
                     </div>
@@ -43,7 +43,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>iEXCELL Robotics and Coding instructor <span>2013-present</span></h2>
+                        <h2>iEXCELL Robotics and Coding instructor <span>June 2013-present</span></h2>
                         <p>I create curriculum in robotics, java programming, chess, and math and teach all these subjects. Over the past 7 years, I have taught countless students and received state level awards for work in robotics competitions.</p>
                       </div>
                     </div>
