@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mihirbafna.com/static/css/main.584f321a.chunk.css",
-    "main.js": "/mihirbafna.com/static/js/main.fd2a47f5.chunk.js",
-    "main.js.map": "/mihirbafna.com/static/js/main.fd2a47f5.chunk.js.map",
+    "main.js": "/mihirbafna.com/static/js/main.0bfad133.chunk.js",
+    "main.js.map": "/mihirbafna.com/static/js/main.0bfad133.chunk.js.map",
     "runtime-main.js": "/mihirbafna.com/static/js/runtime-main.eb88bd8e.js",
     "runtime-main.js.map": "/mihirbafna.com/static/js/runtime-main.eb88bd8e.js.map",
     "static/js/2.95456594.chunk.js": "/mihirbafna.com/static/js/2.95456594.chunk.js",
     "static/js/2.95456594.chunk.js.map": "/mihirbafna.com/static/js/2.95456594.chunk.js.map",
     "index.html": "/mihirbafna.com/index.html",
-    "precache-manifest.d2d6a02932ebcd51c2ad8ca1ecdb62bf.js": "/mihirbafna.com/precache-manifest.d2d6a02932ebcd51c2ad8ca1ecdb62bf.js",
+    "precache-manifest.bd40a41cbd2a844394c8fffab0aec07f.js": "/mihirbafna.com/precache-manifest.bd40a41cbd2a844394c8fffab0aec07f.js",
     "service-worker.js": "/mihirbafna.com/service-worker.js",
     "static/css/main.584f321a.chunk.css.map": "/mihirbafna.com/static/css/main.584f321a.chunk.css.map",
     "static/js/2.95456594.chunk.js.LICENSE.txt": "/mihirbafna.com/static/js/2.95456594.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.eb88bd8e.js",
     "static/js/2.95456594.chunk.js",
     "static/css/main.584f321a.chunk.css",
-    "static/js/main.fd2a47f5.chunk.js"
+    "static/js/main.0bfad133.chunk.js"
   ]
 }
